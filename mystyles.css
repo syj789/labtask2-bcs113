@@ -1,0 +1,152 @@
+.recipe{
+    border: 20px solid rgb(99, 19, 88);
+    background-color:rgb(236, 239, 253);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 30px;
+}
+.recipe button#del {
+    background-color:white;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-size: 20px;
+    float: right;
+    
+}
+.recipe button#edit {
+    background-color:purple;
+    color:white;
+    font-family: cursive;
+    font-size: 20px;
+    float: right;
+    margin-top: 30px;
+    
+
+}
+
+.container2{
+    background-image: url("./resources/berryz.jpg") ; width: 150%;
+}
+#addbtn{
+ padding: 5px;
+ color:white;
+ background-color: black;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 15px;
+ 
+}
+
+.loading{
+
+    font-size: 40px;
+    padding: 40px;
+    margin: 30px;
+    font-family: monospace;
+    color: maroon;
+    text-align: center;
+}
+
+.btn3{
+
+
+    background-color: black; width: 15%; padding: 20px; font-family: monospace; font-size: 15px;
+    color: white;
+    border-color:thistle;
+    border-width: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.main h1{
+    background-color: brown;
+    color: white;
+    font-size: 50px;
+    width: 350px;
+     margin-left: 53
+     0px; 
+     text-align: center;
+     justify-content: center;
+     
+
+}
+body{
+    background-color:white;
+}
+#recipe img{
+width: 1000px;
+height: 500px;
+
+}
+#recipe{
+    text-align: center;
+}
+
+
+.recipeh2{
+    color:white;
+    font-size: 20px;
+    font-weight: bolder;
+   background-color:rgb(117, 0, 117);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 85%;
+    padding: 20px;
+    margin-top: 40px;
+    text-align: center;
+    float: right;
+
+    
+}
+#recipe em{
+    color: yellowgreen;
+    font-weight: lighter;
+
+}
+
+
+#link{
+    text-align: center;
+   
+}
+#link button{
+    background-color: yellowgreen;
+    color: teal;
+    width: 200px;
+    height: 60px;
+
+}
+a:visited {
+background-color:green;
+  }
+  .dropbtn {
+    background-color: brown;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    text-align: center;
+  }
+  
+ 
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+  
